@@ -1,1 +1,1 @@
-# coletor_tesouros
+# explorer-robot
